@@ -3215,16 +3215,6 @@
 				margin-bottom: 0;
 			}
 
-			#footer > .inner section:nth-child(1) {
-				width: calc(66% - 2.5em);
-				margin-right: 2.5em;
-			}
-
-			#footer > .inner section:nth-child(2) {
-				width: calc(33% - 2.5em);
-				margin-left: 2.5em;
-			}
-
 			#footer > .inner .copyright {
 				width: 100%;
 				padding: 0;
