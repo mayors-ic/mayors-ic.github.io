@@ -5,7 +5,11 @@ layout: base
 # Our lessons
 
 This is a detailed overview of current HPC Carpentry lessons.
-Topics have been chosen 
+Topics have been chosen primarily on their ease-of-use and utility
+(i.e. students should be able to finish the lesson and 
+immediately go out and do something useful with it). 
+
+---------------------------------------
 
 ## Intro to HPC
 
@@ -44,9 +48,9 @@ Topics covered include the following:
 * Basic Python syntax
 * Writing and executing Python scripts
 * Storing data using lists, dicts, and Numpy arrays
-* An overview of parallel programming concepts (`multiprocess` is used as a demo)
+* An overview of parallel programming concepts (`multiprocessing` is used as a demo)
 * Writing an analysis pipeline with Snakemake
-* Executing a Snakemake pipeline in parallel across a local computer or cluster
+* Executing a Snakemake pipeline in parallel across a local machine or remote computing cluster
 
 ----------------------------------------------
 
