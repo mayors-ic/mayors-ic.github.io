@@ -34,6 +34,8 @@ Although most work will be performed on student's laptops,
 the final segment (scaling jobs across a cluster) will occur on your cluster environment.
 You should have some version of Python 3 preinstalled for students to use.
 [Anaconda Python](https://www.anaconda.com/download/#linux) is a good choice for most use cases.
+Don't preinstall Snakemake on the system for users (unless it's already there), 
+as this is good practice for students to install local Python packages on their account.
 
 ## Parallel Computing with Chapel
 
@@ -42,8 +44,7 @@ We recommend setting up an installation of Chapel on your cluster beforehand for
 For instructions on compiling/installing Chapel, see the Chapel [quickstart documentation](https://chapel-lang.org/docs/latest/usingchapel/QUICKSTART.html), 
 specifically the sections on "Using a more full-featured Chapel" 
 and "Using Chapel in multi-locale mode". 
-It is also possible to use the Chapel [Docker image](https://hub.docker.com/r/chapel/chapel/) for teaching on student laptops, 
-though multi-locale components will not work.
+It is also possible to use the Chapel [Docker image](https://hub.docker.com/r/chapel/chapel-gasnet/) for teaching on student laptops.
 If you choose to use the Chapel Docker image, 
 make sure students install [Docker](https://www.docker.com/) before the workshop.
 
