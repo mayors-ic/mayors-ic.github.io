@@ -17,7 +17,7 @@ Software Carpentry's materials are already more or less "full"
 (something added comes at the expense of something else),
 and the languages/topics of the workshops 
 was not particularly well matched for problems commonly encountered in HPC
-(hardcore number crunching and execution of large numbers of externally written programs and tools).
+(for instance, hardcore number crunching or execution of large numbers of externally written programs and tools).
 
 The HPC Carpentry lessons have been developed for instructors 
 looking to teach introductory workshops on high-performance computing.
@@ -30,5 +30,6 @@ and the workshop itself requires only a two-day committment from instructors and
 Instructors simply looking to teach basic programming skills in R or Python 
 are highly encouraged to check out the materials offered by 
 [Software Carpentry](https://software-carpentry.org/).
-Software Carpentry's lessons are more generally applicable materials that do not have an HPC component.
+Software Carpentry's lessons are more generally applicable 
+introductory programming materials that do not have an HPC component.
 
