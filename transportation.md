@@ -29,9 +29,12 @@ We want student input on one of two active transportation-related challenges.
   students will have the information needed 
   to recommend a traffic-calming plan for the intersection.
 
+------------------------------------------------------
+
 ## Resources
 
 * Average annual traffic data for pedestrians, cyclists and automobiles 
   can be requested for any intersection in the city 
   (if we have completed a count at the intersection in question).
 
+{% include datasets.md %}
