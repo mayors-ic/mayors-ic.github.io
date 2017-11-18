@@ -11,7 +11,7 @@ We've provided some example instructions to help you get started working with th
 
 ----------------------------------------
 
-## Python 
+# Python 
 
 Anaconda is a very popular Python bundle that includes the programming language itself, 
 along with all of its most popular packages and tools.
@@ -38,7 +38,7 @@ A comprehensive tutorial on how to use Python for data analysis can be found at:
 
 ----------------------------------------
 
-## R
+# R
 
 R is another popular language for data analysis. 
 To get starteed with R on your laptop you will want to 
