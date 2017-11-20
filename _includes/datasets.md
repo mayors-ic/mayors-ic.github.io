@@ -28,9 +28,18 @@
             <li>Roads (surface) - <a href="/datasets/Road_Surface.csv">CSV</a></li>
             <li>Sidewalks - <a href="/datasets/Sidewalk.csv">CSV</a></li>
             <li>Trails - <a href="/datasets/Trail.csv">CSV</a></li>
-            <li>Transit details - <a href="/datasets/gtfs.zip">ZIP</a></li>
+            <li>Transit details (static) - <a href="/datasets/gtfs.zip">ZIP</a></li>
             <li>Water bodies - <a href="/datasets/Waterbody.csv">CSV</a></li>
             <li>Zoning - <a href="/datasets/Zoning_Consolidation.csv">CSV</a></li>
         </ul>
     </div>
 </div>
+
+Real-time transit data can be found at the links below:
+
+* Vehicle positions - [http://kingston.metrolinx.tmix.se/gtfs-realtime/vehicleupdates.pb](http://kingston.metrolinx.tmix.se/gtfs-realtime/vehicleupdates.pb)
+* Trip updates - [http://kingston.metrolinx.tmix.se/gtfs-realtime/tripupdates.pb](http://kingston.metrolinx.tmix.se/gtfs-realtime/tripupdates.pb)
+* Service alerts - [http://kingston.metrolinx.tmix.se/gtfs-realtime/alerts.pb](http://kingston.metrolinx.tmix.se/gtfs-realtime/alerts.pb)
+
+Curious how to get started with some of this data?
+Check out our [software page](/software) for how-tos and guides.

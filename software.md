@@ -58,11 +58,13 @@ A comprehensive tutorial on how to use R for data analysis can be found at:
 
 ----------------------------------------
 
-## Working with GTFS transit data
+# Working with GTFS transit data
 
 The city of Kingston stores its transit data using the GTFS format.
 You will need to use the appropriate 
-[GTFS language bindings](https://github.com/google/gtfs-realtime-bindings) to read or load the data.
+GTFS language bindings to read or load the data.
+Note that the packages for loading the [static](https://github.com/google/transitfeed) and 
+[real-time data](https://github.com/google/gtfs-realtime-bindings) are different.
 
 ### Examples
 
