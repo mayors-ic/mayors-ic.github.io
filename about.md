@@ -32,6 +32,6 @@ about submitting a proposal.
 
 ## What are the deadlines for the challenge?
 
-* Round 1: submit proposal by Jan. 22, 2018 
-* Round 2: shortlist invited to pitch competition, notification sent by Jan. 26, 2018
-* Round 3: pitch competition Feb. 9, 2018
+* Round 1: submit proposal by Feb. 20, 2018 
+* Round 2: shortlist invited to pitch competition, notification sent by Feb. 24, 2018
+* Round 3: pitch competition Mar. 2, 2018

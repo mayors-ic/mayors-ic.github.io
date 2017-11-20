@@ -34,7 +34,13 @@ We want student input on one of two active transportation-related challenges.
 ## Resources
 
 Average annual traffic data for pedestrians, cyclists and automobiles 
-can be requested for any intersection in the city 
+[can be requested](https://www.cityofkingston.ca/city-hall/contact-us) 
+for any intersection in the city 
 (if a count has already been completed at the intersection in question).
+
+[Existing and proposed cycling facilities](/files/existing-proposed-cycling-facilities.kmz) - 
+note that this draft network is still subject to change which could include changes to facility types,
+facility locations and phasing. 
+The date of development for this draft network mapping was Oct 10th, 2017.
 
 {% include datasets.md %}
