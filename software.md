@@ -15,7 +15,7 @@ We've provided some example instructions to help you get started working with th
 
 Anaconda is a very popular Python bundle that includes the programming language itself, 
 along with all of its most popular packages and tools.
-To get started with Anaconda, [download the installer](www.anaconda.org/download)
+To get started with Anaconda, [download the installer](https://anaconda.com/download)
 and follow the on-screen instructions to install it.
 
 You can open up a Jupyter Notebook 
@@ -44,9 +44,9 @@ R is another popular language for data analysis.
 To get starteed with R on your laptop you will want to 
 download and install two pieces of software:
 
-* R itself - The R programming language can be downloaded from [www.r-project.org](www.r-project.org)
+* R itself - The R programming language can be downloaded from [r-project.org](https://r-project.org)
 * RStudio - RStudio is a development environment for R that provides a nice user interface to make coding easier. 
-  You can get it from [www.rstudio.com](www.rstudio.com).
+  You can get it from [rstudio.com](https://rstudio.com).
 
 Once you've installed R and RStudio, open RStudio and you can get started coding!
 A comprehensive tutorial on how to use R for data analysis can be found at:
@@ -61,7 +61,11 @@ A comprehensive tutorial on how to use R for data analysis can be found at:
 ## Working with GTFS transit data
 
 The city of Kingston stores its transit data using the GTFS format.
-You will need to use the appropriate GTFS language bindings to read or load the data.
-An example of doing this (in Python) has been provided below.
+You will need to use the appropriate 
+[GTFS language bindings](https://github.com/google/gtfs-realtime-bindings) to read or load the data.
+
+### Examples
+
+[Using Kingston's real-time bus data in Python](/examples/gtfs-example.html)
 
 
