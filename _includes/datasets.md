@@ -2,7 +2,7 @@
 
 ## Datasets
 
-**Kingston Open Data Catalogue** 
+[**Kingston Open Data Catalogue**](https://www.cityofkingston.ca/explore/data-catalogue)
 
 <div class="row">
     <div class="6u 12u$(medium)">
@@ -28,7 +28,7 @@
             <li>Roads (surface) - <a href="/datasets/Road_Surface.csv">CSV</a></li>
             <li>Sidewalks - <a href="/datasets/Sidewalk.csv">CSV</a></li>
             <li>Trails - <a href="/datasets/Trail.csv">CSV</a></li>
-            <li>Transit details - <a href="/datasets/transit.zip">ZIP</a></li>
+            <li>Transit details - <a href="/datasets/gtfs.zip">ZIP</a></li>
             <li>Water bodies - <a href="/datasets/Waterbody.csv">CSV</a></li>
             <li>Zoning - <a href="/datasets/Zoning_Consolidation.csv">CSV</a></li>
         </ul>
