@@ -4,7 +4,7 @@ layout: base
 
 # About the competition
 
-<iframe allowfullscreen="" frameborder="0" height="349" src="https://www.youtube.com/embed/TsOF2PaKLTY" title="Mayor's Innovation Challenge 2018" width="560"></iframe>
+<iframe allowfullscreen="" frameborder="0" height="349" src="https://www.youtube.com/embed/TsOF2PaKLTY" title="Mayor's Innovation Challenge 2018" width="560" style="display:block; margin:0 auto;"></iframe><br>
 
 ## Why should I participate?
 
