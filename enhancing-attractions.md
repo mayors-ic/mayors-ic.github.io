@@ -18,6 +18,8 @@ How can we make Kingston a better place to live and play for a younger demograph
 
 ## Resources
 
+[Overview powerpoint presentation](/files/enhancing-attractions.pptx)
+
 <div class="row">
     <div class="6u 12u$(medium)">
         <ul>
