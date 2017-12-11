@@ -2,7 +2,7 @@
 layout: base
 ---
 
-# Enhancing local attraction for youth
+# Enhancing local attractions for youth
 
 <div class="row">
 <span class="image left"><img src="images/nightlife.jpg" alt="" /></span>
