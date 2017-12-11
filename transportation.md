@@ -43,4 +43,10 @@ note that this draft network is still subject to change which could include chan
 facility locations and phasing. 
 The date of development for this draft network mapping was Oct 10th, 2017.
 
+A report on the Brock and King street intersection along with supplemental data:
+* [Brock St & King St. E Video-Based Conflict Analysis report](VBCA-Kingston-BrockKingStE-updated.pdf)
+* [Left-turning camera 1 data](/datasets/LeftTurningVehicle_Pedestrian_Camera1.xlsx)
+* [Left-turning camera 2 data](/datasets/LeftTurningVehicle_Pedestrian_Camera2.xlsx)
+* [Right-turning camera data](RightTurningVehicle_Pedestrian_Camera1.xlsx)
+
 {% include datasets.md %}
